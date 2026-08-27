@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -File test.ps1
