@@ -1,1 +1,1 @@
-powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -File test.ps1
+powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -File closing.ps1
